@@ -1,7 +1,7 @@
 # Final-Project - IMDb Movies
-This repository contains the files which were all used to analyse the IMDb movies dataset
+The overview and purpose of this repository is to analyze the IMDb movies dataset. There are files here used for exploration, cleaning, analysis, and presentation of the IMDB Movie dataset. 
 
-## Chronological order of files
+## Here's the brief overview of each file in chronological order of files
 "imdb_movies.csv" this is the orignal IMDb movie dataset file which was obtained from the kaggle site: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows 
 
 "Milestone 2 Final Project.ipynb" this file is where I explored Explore basic properties of the dataset such as:
