@@ -26,3 +26,5 @@ Recommendations
 Future work
 
 "Final Project - IMDb Movies.pptx" is my PowerPoint presentation file which goes with my "Final Project - IMDb Movies.ipynb" and "Project Final_ IMDb Movies Summary.docx" files. Its shows the information in a presentation form
+
+I've spent serveral hours on this and I'm so tired, this is worst then the last time
